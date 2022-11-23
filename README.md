@@ -7,7 +7,7 @@ project demonstrating [QuickNode's](https://www.quicknode.com/) RPC APIs, deploy
 
 The contract implements a basic Ether wallet showcasing some simple functionality depositing and withdrawing  funds to a smart contract address. 
 
-Note: withdrawls are limited to the contract owner.
+Note: withdrawals are limited to the contract owner.
 
 ## Compile
 
